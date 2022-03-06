@@ -150,8 +150,9 @@ iframe {
     display: block;
     margin: auto;
     margin-bottom: 30px;
-    width: 95%;
+    width: 90%;
     padding: 18px;
+    border-radius: 10px;
     box-shadow: 3px 4px 8px rgba(0, 0, 0, 0.281);
 }
 
